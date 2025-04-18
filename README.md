@@ -71,5 +71,8 @@ INSIGHTS : Conditional Rendering , States : Creating State in Functional Compone
 DAY 11 :
 INSIGHTS : STATES : Multiple States in Hooks , State with Object , Updating object with State , Updating Arrays in State , useEffect Hook
 
+DAY 12 :
+INSIGHTS : React Routers and API
+
 
 
