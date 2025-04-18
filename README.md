@@ -31,7 +31,8 @@ Logged Bill to Console
 (INSIGHTS: Array, Loop, Function)
 
 Preview:
-![Screenshot 2025-04-18 165937](https://github.com/user-attachments/assets/771a53d2-1078-4e2f-b942-23d4acbfa5b3)
+
+<img src = https://github.com/user-attachments/assets/771a53d2-1078-4e2f-b942-23d4acbfa5b3)>
 
 
 
